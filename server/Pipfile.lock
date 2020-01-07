@@ -208,9 +208,10 @@
         },
         "hstspreload": {
             "hashes": [
-                "sha256:a38fba83aab971c1a393cb77fabaf4ee39202cd778c8b1f3995a6537c5a3dcce"
+                "sha256:911ec40002cfd728cb3b962adfc376a87a4062c4f119da46e221caa0b33dc501"
             ],
-            "version": "==2020.1.3"
+            "index": "pypi",
+            "version": "==2020.1.7"
         },
         "httptools": {
             "hashes": [
@@ -299,10 +300,10 @@
         },
         "packaging": {
             "hashes": [
-                "sha256:28b924174df7a2fa32c1953825ff29c61e2f5e082343165438812f00d3a7fc47",
-                "sha256:d9551545c6d761f3def1677baf08ab2a3ca17c56879e70fecba2fc4dde4ed108"
+                "sha256:aec3fdbb8bc9e4bb65f0634b9f551ced63983a529d6a8931817d52fdd0816ddb",
+                "sha256:fe1d8331dfa7cc0a883b49d75fc76380b2ab2734b220fbb87d774e4fd4b851f8"
             ],
-            "version": "==19.2"
+            "version": "==20.0"
         },
         "pkginfo": {
             "hashes": [
